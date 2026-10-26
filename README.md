@@ -36,7 +36,8 @@ The connector's tools send animalmath.com what Claude asks them for: topic words
 a worksheet maker's settings, or a set's title, note and items. Animal Math answers and keeps only a count of
 each call (which tool and how many results, never the words), and each set link's title, note and items,
 saved under its short code so the link keeps working. Nothing else is stored, and nothing is sent anywhere
-else. Privacy policy: https://animalmath.com/about/#privacy. Terms of use: https://animalmath.com/about/#terms.
+else. See the [privacy policy](https://animalmath.com/about/#privacy) and the
+[terms of use](https://animalmath.com/about/#terms).
 
 ## License
 
