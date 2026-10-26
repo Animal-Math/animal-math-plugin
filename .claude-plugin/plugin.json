@@ -4,8 +4,12 @@
   "version": "1.0.0",
   "description": "Free Pre-K to 5th grade math worksheets, worksheet makers, quizzes, teaching tools and full-year curricula from animalmath.com, handed to teachers and parents as checked links: one short link for a lesson or a week, or a worksheet maker already set up.",
   "author": { "name": "Eggroll Games", "url": "https://animalmath.com" },
-  "homepage": "https://animalmath.com/use-with-chatgpt-claude/",
+  "homepage": "https://animalmath.com/",
+  "documentationUrl": "https://animalmath.com/use-with-chatgpt-claude/",
+  "supportUrl": "https://animalmath.com/suggest/?type=problem",
+  "repository": "https://github.com/Animal-Math/animal-math-plugin",
   "privacyPolicyUrl": "https://animalmath.com/about/#privacy",
+  "termsOfServiceUrl": "https://animalmath.com/about/#terms",
   "license": "Apache-2.0",
   "keywords": ["math", "worksheets", "teachers", "elementary", "curriculum", "printables", "education"]
 }
