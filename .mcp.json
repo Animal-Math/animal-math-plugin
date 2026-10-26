@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "animal-math": {
+      "type": "http",
+      "url": "https://animalmath.com/mcp"
+    }
+  }
+}
